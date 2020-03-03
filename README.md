@@ -16,6 +16,6 @@ OTHER TOOLS - ADOBE PHOTOSHOP | CANVA | LIGHTHOUSE | REACT-SKETCH
 
 [Live Server](https://digi-doodle.now.sh/)
 
-[Client Repo](https://github.com/thinkful-ei-iguana/digi-doodle-client)
+[Client Repo](https://github.com/djllap/digi-doodle-client)
 
-[Server Repo](https://github.com/thinkful-ei-iguana/digi-doodle-server)
+[Server Repo](https://github.com/djllap/digi-doodle-server)
