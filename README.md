@@ -1,4 +1,5 @@
-# digi-doodle --- Built by Sophia Koeut | Michael Weedman | Jonathan Jackson | Austin Tumlinson
+# digi-doodle --- 
+Built by Sophia Koeut | Michael Weedman | Jonathan Jackson | Austin Tumlinson | Daniel Kent
 
 ## About 
 
